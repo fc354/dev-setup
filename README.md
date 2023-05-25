@@ -45,7 +45,3 @@ Install the extensions
 
 Install non-python requirements
 `jupyter contrib nbextension install --user`
-
-Install the configurator
-`pip install jupyter_nbextensions_configurator`
-
